@@ -1,3 +1,4 @@
+start
 # SMWYG-Show-Me-What-You-Got
 ![image](https://user-images.githubusercontent.com/3501170/48133338-94b64d00-e2ea-11e8-8c91-1e3c0d53719d.png)
 
